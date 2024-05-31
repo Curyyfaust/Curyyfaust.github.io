@@ -27,7 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2024 - Future：**  Tsinghua University Shenzhen International Graduate School(Incoming EE Phd, supervised by [Prof. Ye Guo](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue))
+- **Sep 2024 - Future：**  Tsinghua University Shenzhen International Graduate School(Incoming EE Phd, supervised by [Prof. Ye Guo](https://www.tbsi.edu.cn/2021/1011/c4964a55661/page.htm))
 - **Sep 2020 - June 2024:** University of illinois of Urbana-Champaign (BSc, ECE)
 - **Sep 2020 - June 2024:** Zhejiang University (BSc, EE)
 
