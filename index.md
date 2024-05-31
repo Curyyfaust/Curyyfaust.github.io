@@ -19,18 +19,19 @@ I am a junior student studying in the Zhejiang University and UIUC major in Elec
 
 ## Research Interests
 
-My research interests are **Explainable AI (XAI)** and **Privacy-preserving AI**. Specifically, my research goal is to build faithful XAI systems which are easily understood by users and are robust in various environments (e.g. **XAI4LLM, XAI4NLP, XAI4MM, XAI4CV, XAI4Security** and so on). I am also interested in applying the XAI to real-world scenarios (e.g. optical systems, recommender systems, and traffic forecasting etc.). At the same time, I am also very interested in the research of AI in the field of **astronomy, environmental science, materials and medicine**.
+My research interests are **AI for Electricity** .It employs AI techniques to enhance applications such as prediction, fault detection, and scheduling in electrical systems.At the same time i am also interested in applying the AI and I am interested in applying AI and economic approaches to future energy planning and climate transition research.
 
-Prior to this, I have also been exposed to bioinformatics, multimodal sentiment analysis, domain generalization and other research areas.
+Prior to this, I have also been exposed to AI4science **biology, environmental science, materials and medicine**.,traffic flow forecasting and other research areas.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *sonly[at]mail[dot]sdu[dot]edu[dot]cn*.
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chenghan.20@intl.zju.edu.cn*.
 
 ## Academic Background
 
-- **Sep 2024 - Future：** Hong Kong University of Science and Technology (Guangzhou) (Incoming AI Phd, supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue))
-- **Apr 2023 - Mar 2024:** KAUST (Visiting Student)
-- **Apr 2024 - Sep 2024：** HKSUT(GZ) (Research Assistant)
-- **Sep 2020 - June 2024:** Shandong University (BSc, EECS)
+- **Sep 2024 - Future：**  Tsinghua University Shenzhen International Graduate School(Incoming EE Phd, supervised by [Prof. Ye Guo](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue))
+- **Sep 2020 - June 2024:** University of illinois of Urbana-Champaign (BSc, ECE)
+- **Sep 2020 - June 2024:** Zhejiang University (BSc, EE)
+
+## Academic Background
 
 
 
