@@ -21,7 +21,7 @@ I am a junior student studying in the Zhejiang University and UIUC major in Elec
 
 My research interests are **AI for Electricity** .It employs AI techniques to enhance applications such as prediction, fault detection, and scheduling in electrical systems.At the same time i am also interested in applying the AI and I am interested in applying AI and economic approaches to future energy planning and climate transition research.
 
-Prior to this, I have also been exposed to AI4science **biology, environmental science, materials and medicine**.,traffic flow forecasting and other research areas.
+Prior to this, I have also been exposed to AI for Finance **Quantitative trading,Energy derivatives design and Electrical design**,traffic flow forecasting and other research areas.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chenghan.20@intl.zju.edu.cn*.
 
