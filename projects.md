@@ -9,7 +9,6 @@ Lastest Update: 2th July 2023.
 # Research Projects
 - Microgrid scheduling based on particle swarm optimization
 <center>
-<img src="/微电网调度.png" style="width: 50%; height: 50%;">
+    <img src="/微电网调度.png" style="width: 50%;">
 </center>
-
 
