@@ -5,7 +5,7 @@ title: Course
 ---
 
 ## Course
-I also complete courses from the coursera,in the future i will also learn more courses about finance,energy and AI
+I also complete courses from the coursera,in the future i will also learn more courses about **finance,energy and AI**
 - Financial Markets - Yale University[[pdf]](https://drive.google.com/file/d/1YsiOZUnVWg1dLddyAxITAhzxJi5yb6Dh/view?usp=drive_link)
 - Banking and Financial Institutions - UIUC [[pdf]](https://drive.google.com/file/d/1ddhkapK_Mqkn5J2P7dgwOK5_-IvTIfEI/view?usp=drive_link)
 - Introduction to Financial Analysis - The "Why?" - UIUC [[pdf]](https://drive.google.com/file/d/1DzqicbMIXBb-HcKniM760ahy81uczYd4/view?usp=drive_link)
