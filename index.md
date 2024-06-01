@@ -33,6 +33,24 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Working Experience
 
+- **Aug 2023 - Nov 2023:** Boc International Securities Co., LTD (**中银国际证券**)[[pdf]](https://drive.google.com/file/d/1K_ylQWQbGwlMDcw2TQDoiUBfCNEb7U4G/view?usp=drive_link)
+- collect relevant business data and write meeting minutes
+- participate in the review writing of enterprises (Jieshun Technology, Foxit Software, etc.)
+- complete Tesla FSD industry research
+<center>
+    <img src="/中银证券.png" style="width: 50%;">
+</center>
+
+- **April 2023 - July 2023:** International Think Tank for LLDC[[pdf]](https://drive.google.com/file/d/126moL0iWWHkXAFLIycYFF-t3J27PxVz_/view?usp=drive_link)
+- collect energy economic development data of five Central Asian countries through the World Bank database
+- complete the policy briefing of the China-Central Asia Summit and the CO2 emission reduction study in Kazakhstan and Takikistan
+
+- **Aug 2021 - Sep 2021:** Yangtze River Delta Green Value Investment Institute (**中央财经大学-长三角绿色价值投资研究院**)[[pdf]](https://drive.google.com/file/d/1y5lJ8Fw_lz8_erYm-iYWj-zBc_TQhS_u/view?usp=drive_link)
+- collect and analysis policies related to new energy power generation in China
+- complete the study on the implications of the green transformation of energy structure in the Yangtze River Delta
+<center>
+    <img src="/ESGLOGO.png" style="width: 50%;">
+</center>
 
 
 <a href="https://www.easycounter.com/">
