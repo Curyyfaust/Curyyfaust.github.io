@@ -8,7 +8,7 @@ title: Awards
 
 ### National awards
 
-- First Prize in Contemporary Undergraduate Mathematical Contest in Modeling National（**Top 0.6%**）
+- First Prize in Contemporary Undergraduate Mathematical Contest in Modeling National（**Top 0.6%**）[[pdf]](https://github.com/yliang725/Anomaly-Detection-IoT23/blob/main/Research%20Paper/Research%20Paper.pdf)
   
 
 ### Provincial awards
