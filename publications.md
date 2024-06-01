@@ -28,6 +28,6 @@ title: Publications
 
 
 ## Working paper
-- Some projects about XAI/LLM will be submitted to ICLR2025/ICASSP2025/Applied Energy/IEEE Trans
+- Some projects about AI4Electricity and AI4TS will be submitted to ICLR2025/ICASSP2025/Applied Energy/IEEE Trans
 
 **If you want to collaborate on the project, please email me.**
