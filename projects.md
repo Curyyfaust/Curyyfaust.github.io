@@ -13,7 +13,7 @@ Lastest Update: 2th July 2023.
 ### Microgrid scheduling based on particle swarm optimization
 
 <center>
-<img src="/file/微电网调度.png">
+<img src="/微电网调度.png">
 </center>
 
 <br>
