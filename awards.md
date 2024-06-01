@@ -8,7 +8,7 @@ title: Awards
 
 ### National awards
 
-- First Prize in Contemporary Undergraduate Mathematical Contest in Modeling National（**Top 0.6%**）[[pdf]](https://github.com/yliang725/Anomaly-Detection-IoT23/blob/main/Research%20Paper/Research%20Paper.pdf)
+- Silver Award of Zhejiang University Student Entrepreneurship Competition（**浙江大学大学生创业比赛银奖**）[[pdf]](https://drive.google.com/file/d/1jWfy4ZRIbLzU7fuepH3gvgH08ODmgC7C/view?usp=drive_link)
   
 
 ### Provincial awards
