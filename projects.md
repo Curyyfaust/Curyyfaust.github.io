@@ -18,6 +18,6 @@ title: Projects
 
 - A deep learning architecture for electricity price prediction based on LSO-VMD [[code]](https://gitee.com/curryfaust/optimization-vmd-lstm)
 <center>
-    <img src="/project_method.png" style="width: 50%;">
+    <img src="/method.png" style="width: 50%;">
 </center>
 
