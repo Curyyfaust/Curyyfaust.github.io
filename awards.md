@@ -9,13 +9,7 @@ title: Awards
 ### National awards
 
 - First Prize in Contemporary Undergraduate Mathematical Contest in Modeling National（**Top 0.6%**）
-- First Prize in MathorCup University Mathematical Modeling Challenge National（**Top 3%**）
-- Second Prize in Yangtze River Delta University Mathematical Contest in Modeling National
-- Broze Medal in China Collegiate Algorithm Design & Programming Challenge Contest
-- Honorable Mention in 2022 Interdisciplinary Contest In Modeling Certificate of Achievement
-- Second Prize in Asia and Pacific Mathematical Contest in Modeling
-- Third Prize in Asia and Pacific Mathematical Contest in Modeling
-- Third Prize in May Day Mathematical Contest in Modeling
+  
 
 ### Provincial awards
 
@@ -50,5 +44,3 @@ title: Awards
 - **Outstanding Volunteer** of Shandong University with a total volunteer time of **130h**.
 
 
-
-Lastest Update: 12th May 2023 &nbsp.
