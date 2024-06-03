@@ -12,7 +12,7 @@ title: Publications
 
 ## Conference Paper
 - [Short-Term Forecasting of EV Charging Load Using Prophet-BiLSTM](https://ieeexplore.ieee.org/abstract/document/9942039)
-<br>**Chenghan Li**, , Linhong Zou, Ruisheng Diao~, Rongjia Sun and Huan Xie<br> **ITEC-AP 2022**
+<br>**Chenghan Li**,Yipu Liao , Linhong Zou, Ruisheng Diao~, Rongjia Sun and Huan Xie<br> **ITEC-AP 2022**
 
 - [A Computational Framework for Effective Representation and Extraction of Knowledge Graph for Power Plant Maintenance and Overhaul](https://ieeexplore.ieee.org/abstract/document/10152005)
 <br>**Chenghan Li**, Mingchen Li, Hanzhen Lu, Jiabao Pan, Bo Qin, Hongwei Wang~<br> **CSCWD 2023** (CCF C)
