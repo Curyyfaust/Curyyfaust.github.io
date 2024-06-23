@@ -8,7 +8,7 @@ title: Awards
 
 ### Awards
 
-- Outstanding graduate of Zhejiang University (**浙江大学优秀毕业生**）
+- Outstanding graduate of Zhejiang University (**浙江大学优秀毕业生**）[[jpg]](https://drive.google.com/file/d/1GHmktbpWHJW41lYepnNar0FPQYDXb7Hk/view?usp=drive_link)
 - Silver Award of Zhejiang University Student Entrepreneurship Competition（**浙江大学大学生创业比赛银奖**）[[jpg]](https://drive.google.com/file/d/1jWfy4ZRIbLzU7fuepH3gvgH08ODmgC7C/view?usp=drive_link)
 - First prize in mathematics competition of Zhejiang University students (**浙江省大学生数学竞赛一等奖**)[[jpg]](https://drive.google.com/file/d/1myWvqjVlsQ9Q8ulyqX0YdYBa0TqHXdlg/view?usp=drive_link)
 - First prize of Shifeng Asset Cup, School of Management, Fudan University (**复旦大学管理学院石峰资产杯一等奖**)[[jpg]](https://drive.google.com/file/d/1WfyqphCWVHWago7WwApNffW48Obp6cZ_/view?usp=drive_link)
