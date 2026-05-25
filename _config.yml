@@ -1,6 +1,7 @@
 title: Chenghan Li
-tagline: Personal Website
-description: Chenghan Li's personal academic website, including research, publications, awards, projects, and teaching materials.
+subtitle: Ph.D. Student in Electrical Engineering
+tagline: AI for Electricity | Power Systems | Energy Transition
+description: Academic website of Chenghan Li, featuring research on AI for electricity, power systems, energy forecasting, optimization, publications, projects, awards, and coursework.
 
 # Site URL
 url: https://curyyfaust.github.io
@@ -9,23 +10,27 @@ url: https://curyyfaust.github.io
 owner:
   name: Chenghan Li
   avatar: lch.jpg
-  bio: Researcher / Student interested in energy systems, optimization, data analysis, and AI applications.
+  bio: Ph.D. student in Electrical Engineering. Research interests include AI for electricity, power system forecasting, energy optimization, and climate-energy transition.
   email: chenghanli90@gmail.com
+  academic_email: chenghan.20@intl.zju.edu.cn
 
   # Social links
   github: Curyyfaust
   scholar: https://scholar.google.com/citations?user=_NAxJooAAAAJ&hl=zh-CN
   # linkedin:
   # twitter:
-  # instagram:
+  # orcid:
 
 # Google Search Console verification
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Top navigation
 links:
-  - title: About Me
+  - title: Home
     url: /
+
+  - title: Research
+    url: /research/
 
   - title: Publications
     url: /publications/
@@ -36,15 +41,20 @@ links:
   - title: Awards
     url: /awards/
 
-  - title: Course
+  - title: Coursework
     url: /course/
+
+  - title: CV
+    url: /cv/
+
+  - title: News
+    url: /news/
 
 # Timezone
 timezone: Asia/Shanghai
 
 future: true
 highlighter: rouge
-
 permalink: /:categories/:title
 
 kramdown:
@@ -54,7 +64,7 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-# Disable Disqus unless you have your own Disqus shortname
+# Comments are disabled by default. Add your own Disqus shortname if needed.
 # disqus:
 #   shortname:
 
