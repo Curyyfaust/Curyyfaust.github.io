@@ -1,61 +1,51 @@
 title: Chenghan Li
-# tagline: Two roads diverged in woods, I took the one less traveled by.
-description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
+tagline: Personal Website
+description: Chenghan Li's personal academic website, including research, publications, awards, projects, and teaching materials.
+
+# Site URL
 url: https://curyyfaust.github.io
 
-# Owner/author information
+# Owner / author information
 owner:
   name: Chenghan Li
   avatar: lch.jpg
-#  bio:
+  bio: Researcher / Student interested in energy systems, optimization, data analysis, and AI applications.
   email: chenghanli90@gmail.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: songninglai
-  # facebook: caihanlin2002
-  github: Curyyfaust
-  # linkedin: songning lai
-  scholar: https://scholar.google.com/citations?user=_NAxJooAAAAJ&hl=zh-CN
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
 
-# Analytics and webmaster tools stuff goes here
-# https://search.google.com/search-console/ownership
+  # Social links
+  github: Curyyfaust
+  scholar: https://scholar.google.com/citations?user=_NAxJooAAAAJ&hl=zh-CN
+  # linkedin:
+  # twitter:
+  # instagram:
+
+# Google Search Console verification
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
-
-# Links to include in top navigation
-# For external links add external: true
+# Top navigation
 links:
   - title: About Me
     url: /
+
   - title: Publications
     url: /publications/
+
+  - title: Projects
+    url: /projects/
+
   - title: Awards
     url: /awards/
+
   - title: Course
     url: /course/
-    
-  #- title: Projects
-  # url: /projects/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+# Timezone
+timezone: Asia/Shanghai
+
 future: true
 highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
-# pygments: true
 
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
+permalink: /:categories/:title
 
 kramdown:
   auto_ids: true
@@ -64,21 +54,23 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-  # coderay:
-  #   coderay_line_numbers:
-  #   coderay_line_numbers_start: 1
-  #   coderay_tab_width: 4
-  #   coderay_bold_every: 10
-  #   coderay_css: class
-
-
-# disqus settings:
-disqus:
-  shortname: lancecai
+# Disable Disqus unless you have your own Disqus shortname
+# disqus:
+#   shortname:
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
+exclude:
+  - lib
+  - config.rb
+  - Capfile
+  - config
+  - log
+  - Rakefile
+  - Rakefile.rb
+  - tmp
+  - less
+  - minimal-mistakes.sublime-project
+  - minimal-mistakes.sublime-workspace
+  - .idea
+  - backup
